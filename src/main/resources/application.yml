@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    images:
+      path: /pcw/**
+      url: http://ws.postcoder.com/pcw
