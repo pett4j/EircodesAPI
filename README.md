@@ -9,7 +9,8 @@ Tecnologies:
   3. Spring Boot
   4. Redis
 
-Genarate project:
+Compiling, packing and pushing:
+--
 
 Prerequisite:
   1. Java 8 (and Enviroment Variables)
